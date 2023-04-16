@@ -11,7 +11,7 @@ Recursion problems and their significance in Computer Engineering issues. The fo
 
 Nth Fibonacci,Phone Name Mnemonics
 
-Jupyter notebook = 
+Jupyter notebook = https://github.com/Gabsflorencio/Algorithms-and-Data-Structure/blob/489e718fe977020b686994579a1290e7e960a77c/WEEK4.ipynb
 
 Loom video = 
 
