@@ -13,7 +13,7 @@ Nth Fibonacci, Phone Name Mnemonics
 
 Jupyter notebook = https://github.com/Gabsflorencio/Algorithms-and-Data-Structure/blob/489e718fe977020b686994579a1290e7e960a77c/WEEK4.ipynb
 
-Loom video = 
+Loom video = https://www.loom.com/share/a9f34369216c4df5bac0476215527d3b
 
 
 
