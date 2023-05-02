@@ -17,3 +17,8 @@ Loom video = https://www.loom.com/share/a9f34369216c4df5bac0476215527d3b
 
 # Week 5 and 6 UNIT 1 - Code interview challenge and co-creation using Large Language Model (LLM) and ChatGPT 
 
+You're given three nodes that are contained in the same Binary Search Tree: nodeOne, nodeTwo and nodeThree.
+
+Write a function that returns a boolean representing whether one of nodeOne or nodeThree is an ancestor of nodeTwo and the other node is a descendant of nodeTwo.
+
+Jupyter notebook =
