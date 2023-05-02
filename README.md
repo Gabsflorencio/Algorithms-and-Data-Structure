@@ -21,4 +21,6 @@ You're given three nodes that are contained in the same Binary Search Tree: node
 
 Write a function that returns a boolean representing whether one of nodeOne or nodeThree is an ancestor of nodeTwo and the other node is a descendant of nodeTwo.
 
-Jupyter notebook =
+Jupyter notebook = https://github.com/Gabsflorencio/Algorithms-and-Data-Structure/blob/81ec34169eb746bfbf08d6ee574d536d40a8c391/WEEK%206%20NOTEBOOK.ipynb
+
+Loom video =https://www.loom.com/share/a0f1df099a26445cbd53f130750811a2
