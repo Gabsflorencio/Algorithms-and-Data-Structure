@@ -15,5 +15,5 @@ Jupyter notebook = https://github.com/Gabsflorencio/Algorithms-and-Data-Structur
 
 Loom video = https://www.loom.com/share/a9f34369216c4df5bac0476215527d3b
 
-
+# Week 5 and 6 UNIT 1 - Code interview challenge and co-creation using Large Language Model (LLM) and ChatGPT 
 
