@@ -24,7 +24,7 @@ Write a function that returns a boolean representing whether one of nodeOne or n
 Jupyter notebook = https://github.com/Gabsflorencio/Algorithms-and-Data-Structure/blob/81ec34169eb746bfbf08d6ee574d536d40a8c391/WEEK%206%20NOTEBOOK.ipynb
 
 Loom video =https://www.loom.com/share/a0f1df099a26445cbd53f130750811a2
-# ______________________________________________________________________________________________________________________________________________________________________
+# ________________________________________________________________________
 
 # UNIT 2 - CHALLENGE 1
 
