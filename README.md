@@ -28,4 +28,4 @@ Loom video =https://www.loom.com/share/a0f1df099a26445cbd53f130750811a2
 
 # UNIT 2 - Week 7 and 8 - Fundamentals of graphs/networks and networkx library
 
-Q&A about Graphs/Networks: 
+Q&A about Graphs/Networks: https://github.com/Gabsflorencio/Algorithms-and-Data-Structure/blob/d7527eda9f96131b329436af2213835579ad1736/WEEK%208.ipynb
